@@ -1,0 +1,56 @@
+{
+    "name": "MountainSwap",
+    "timestamp": "2022-10-26T04:27:09.352Z",
+    "version": {
+      "major": 2,
+      "minor": 16,
+      "patch": 112
+    },
+    "logoURI": "https://pancakeswap.finance/logo.png",
+    "keywords": [
+      "pancakeswap",
+      "extended"
+    ],
+    "tokens": [
+      {
+        "name": "MountainSwap Token",
+        "symbol": "MTAIN",
+        "address": "0x822511F75FcAc79fB5C1f539419415201A99f0AE",
+        "chainId": 13130,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      },
+      {
+        "name": "Tether Token",
+        "symbol": "USDT",
+        "address": "0x5953DB4A2dc0a1826e4ABef7f4829650D5a94Bed",
+        "chainId": 13130,
+        "decimals": 6,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x1A7f4ba50551924d34DF2E61C587716Bae03ce46",
+        "chainId": 13130,
+        "decimals": 6,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      },
+      {
+        "name": "PolySwap",
+        "symbol": "SPOLY",
+        "address": "0x4eeb120B6aDd434c32f51e79f1e7D64F9C2Dad20",
+        "chainId": 13130,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      },
+      {
+        "name": "Wrapped POL",
+        "symbol": "WPOL",
+        "address": "0x7efAB5121F7B12d5ebD60681FbbB328Fcb9B4148",
+        "chainId": 13130,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      }
+    ]
+}
